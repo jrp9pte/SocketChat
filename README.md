@@ -1,4 +1,4 @@
-#Socket Chat - Client/Server Network Programming Application in C language
+# Socket Chat - Client/Server Network Programming Application in C language
 
 ## Description
 
