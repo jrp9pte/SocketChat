@@ -10,3 +10,5 @@ The project is implemented in C and follows the client-server model, with the se
 
 ## Demo
 
+<img align="left" width="800" height="600" src="https://github.com/jrp9pte/jrp9pte/blob/main/schat_1080p_.gif" >
+
